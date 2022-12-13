@@ -1,3 +1,10 @@
+/*  Write a Java program using Nested For Loop to print the following pyramid pattern 
+	   *
+	  **
+	 ***
+	****
+*/
+
 public class RightAlignedPyramid
 {
 	public static void main(String args[])
